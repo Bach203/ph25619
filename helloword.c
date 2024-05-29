@@ -2,7 +2,7 @@
 
 int main(){
 printf("/n Hello word);
-return null;
+printf("/n Hello github";
 }
 
 
